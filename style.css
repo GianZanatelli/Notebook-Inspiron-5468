@@ -1,0 +1,16 @@
+body {
+	background-color: #484D50;
+}
+
+.main {
+	display: flex;
+	min-height: 75vh;
+}
+
+.sidebar {
+	width: 250px;
+}
+
+.active-window {
+	flex: 1;
+}
