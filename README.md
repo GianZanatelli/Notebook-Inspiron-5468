@@ -14,4 +14,6 @@
 
 > Durante os dias 29/06 e 30/06, aprendi como funciona a navegação entre páginas e também sobre modularização, que é uma das práticas mais fundamentais e recomendadas do mercado. Sendo assim, pude fazer um exemplo para entender como funciona e aprender na prática.
 
-
+                 *23:59*
+		
+Ainda hoje, o foco foi na arquitetura e no planejamento visual do projeto. Consegui utilizar a modularização para criar um site navegável entre duas telas (Principal e Jogos). Aprendi a manipular degradês no CSS e fiz o protótipo no Figma para usar como modelo. Além disso, barra lateral já se encontra funcional com uma lista e respectivos links.

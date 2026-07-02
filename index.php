@@ -16,23 +16,11 @@ $projetos = [
 <header>
 	<h1>cabeçalho</h1>
 </header>
-
 <div class="main">
-		<aside class="sidebar">
-			<nav>
-				<details>
-					<summary> Tecnology </summary>
-					
-					<ul>
-						<li><a href="games.php">Jogos</a></li>
-					</ul>
-				</details>
-			</nav>
-		</aside>
+<?php include 'sidebar.php'; ?>
 	<main class="active-window">
 		<h1 style="color: green;">Gian <a style="color: white;">Valério </a><a style="color: red;">Zanatelli </a></h1>
 	</main>
-
 </div>
 
 <footer>

@@ -13,11 +13,14 @@ $projetos = [
 </head>
 <body>
 <header>
-	
+	<h1>Jogos</h1>
 </header>
-	
-	<h1 style="color: green">Olá</h1>
-	
+<div class="main">
+<?php include 'sidebar.php'; ?>
+	<main class="active-window">	
+		<h1 style="color: green">Jogo de Matemática</h1>
+	</main>
+</div>
 <footer>
 	
 </footer>

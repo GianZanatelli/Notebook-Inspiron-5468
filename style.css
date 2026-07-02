@@ -1,5 +1,8 @@
 body {
-	background-color: #484D50;
+	background: linear-gradient(to bottom, #484D50, #292c2e);
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
 .main {
@@ -13,4 +16,11 @@ body {
 
 .active-window {
 	flex: 1;
+}
+
+summary {
+	display: list-item;
+	color: white;
+	cursor: pointer;
+	padding: 10px;
 }
